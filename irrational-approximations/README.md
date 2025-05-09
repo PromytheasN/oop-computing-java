@@ -1,4 +1,4 @@
-# Assignment 2B – Irrational Number Approximations via Interface (Java)
+# Irrational Number Approximations via Interface (Java)
 *Course: CPSC 1181 – Object-Oriented Programming, Langara College*
 
 This assignment demonstrates the use of **interfaces**, **mathematical approximation algorithms**, 
