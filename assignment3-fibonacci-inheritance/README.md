@@ -8,7 +8,7 @@ iteration, tail recursion, and memoization techniques using `BigInteger`.
 
 ---
 
-## 🚀 Overview
+## Overview
 
 - `Fibonacci.java`: Abstract base class that defines:
   - `usingRecursion(int n)` – implemented directly using standard recursion
@@ -29,7 +29,7 @@ iteration, tail recursion, and memoization techniques using `BigInteger`.
 
 ---
 
-## 📐 Class Structure
+## Class Structure
 
 ```text
 Fibonacci (abstract)
