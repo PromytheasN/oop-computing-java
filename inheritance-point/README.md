@@ -12,6 +12,7 @@
 
 - `Point.java` – Base class for 2D point representation
 - `Point3D.java` – Subclass adding z-axis and 3D behavior
+- `TestingPoint.java` – Contains the `main()` method to test `Point` and `Point3D` functionality
 - `README.md` – This documentation file
 
 ---
